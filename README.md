@@ -1,2 +1,2 @@
 # HOTEL-MANAGEMENT-USING-NETWORKING
-A Cisco Packet Tracer-based Hotel Management Network designed using VLANs, inter-VLAN routing, routers, switches, wireless connectivity, and serial DCE/DTE links for secure and efficient departmental communication
+First, we planned the hotel network by dividing the departments into different VLANs. Each VLAN was assigned a separate IP subnet. We connected the end devices to switches and configured the appropriate VLANs. Routers were then configured to provide communication between different networks. The routers were connected using serial DCE/DTE links, where the DCE side provides clocking. Finally, we configured routing and tested connectivity using ping and simulation mode in Cisco Packet Tracer.
